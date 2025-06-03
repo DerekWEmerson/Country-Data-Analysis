@@ -1,6 +1,6 @@
 # Country Analysis & Scoring
 
-This project compares countries across over 50 features related to quality of life, economy, demographics, and several other metrics. I then attempt to create my own boiled down Quality of Life score using some of the most important features present in this dataset. This project showcases my skills in SQL, Excel, Python, and Tableau, using real-world data to rank nations more holistically than standard indexes.
+This project compares countries across nearly 40 features related to quality of life, economy, demographics, and several other metrics. I then attempt to create my own boiled down Quality of Life score using some of the most important features present in this dataset. This project showcases my skills in SQL, Excel, Python, and Tableau, using real-world data to rank nations more holistically than standard indexes.
 
 ## Project Overview
 
