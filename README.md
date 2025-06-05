@@ -31,10 +31,27 @@ Data Sources:
 
 ## Key Insights
 
-- Wealth and quality of life don’t always align. Some high-GDP countries scored poorly.
-- Certain regions performed better than others in terms of Quality of Life value, with European, North American, and East Asian countries topping the list.
-- Financial data had a huge impact on my Quality of Life score, particularly in terms of lowering or balancing the score. Countries with missing Financial Data had higher Adjusted Overall Scores.
+Quality of Life
+- Certain regions performed better than others in terms of Quality of Life Value, with European, North American, and East Asian countries topping the list.
+- Quality of Life seemed most influenced by Purchasing Power, Life Expectancy, and low Pollution levels.
+
+GDP and Finances
+- GDP and Quality of Life don’t always align. Some high-GDP countries scored poorly.
+- GDP seemed to be the driving force for many metrics across all categories.
+- Purchasing Power correlated with both GDP and Cost of Living, but GDP and Cost of Living were not directly linked, suggesting differing drivers.
+- Low Fertility/Birth rates seemed to tie most closely to high Costs of Living, implying that affordability of goods and services incentivizes having larger families.
+- Financial metrics had a huge impact on the Custom Quality of Life Score I created, particularly in terms of lowering or balancing this score. Countries with missing Financial data had higher Adjusted Overall Scores.
+
+Safety
+- No meaningful correlation was found between Armed Forces Size and Safety.
+- Lower unemployment correlated with higher safety.
+
+Geography
+- Northern countries exhibited higher Quality of Life, Safety, Health, Education, and GDP, and lower Mortality, Pollution, and Fertility rates.
+
+Learning
 - Jupyter Notebook’s data cleaning power wipes the floor with SQL. Much time was lost.
+
 
 ## Skills Demonstrated
 
