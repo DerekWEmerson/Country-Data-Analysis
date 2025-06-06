@@ -9,9 +9,10 @@ Three datasets were initially taken from Kaggle, but only two were used in the f
 This data was also visualized using Tableau, creating an interactive dashboard showcasing the top 10 countries in each metric as well as all metrics for each individual country.
 
 Data Sources:
-- `world-data-2023.csv` (economic + social indicators)
-- `Quality_of_Life.csv` (Numbeo-style subjective indices)
-- `world_rankings.csv` (discarded due to immensity)
+All data sets found on Kaggle. ([1](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/data)) ([2](https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country))
+1. `world-data-2023.csv` (economic + social indicators)
+2. `Quality_of_Life.csv` (Numbeo-style subjective indices)
+3. `world_rankings.csv` (discarded due to immensity)
 
 ## Goals
 
